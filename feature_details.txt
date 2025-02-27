@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes in main branch
+=======
+details of new feature
+>>>>>>> feature-update
